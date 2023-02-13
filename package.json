@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinodnextcoder/Nodejs_Api.git"
+    "url": "git+https://github.com/Mironshoh1603/NodeCI.git"
   },
   "keywords": [
     "simple",
     "nodejs",
     "api"
   ],
-  "author": "vinod",
+  "author": "Mironshoh1603",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"

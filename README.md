@@ -1,5 +1,4 @@
-# nodejsapi-docker-example
-Simple Node.js with docker
+#Simple Node.js with docker
 To start project
 
 npm install
